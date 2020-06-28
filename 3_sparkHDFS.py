@@ -89,3 +89,4 @@ sparkdriver.sql("show tables in db1").show()
 
 #LFS --> Storage system being used by default by spark (stores data locally spark-warehouse)
 #embedded derby -->metastore
+# changes made in this file as well
