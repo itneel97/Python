@@ -19,3 +19,5 @@ r1.checkpoint()  # check pointing rdd
 # partitions - chunk of data
 # executor - logical resource/unit(memory and CPU) created for processing a partition
 # task - computation/processing of a partition by an executor
+
+# file is add!
