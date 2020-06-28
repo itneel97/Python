@@ -22,3 +22,4 @@ r1.checkpoint()  # check pointing rdd
 
 # file is add!
 # file added check!
+# check!
