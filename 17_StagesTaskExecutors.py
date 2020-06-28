@@ -21,3 +21,4 @@ r1.checkpoint()  # check pointing rdd
 # task - computation/processing of a partition by an executor
 
 # file is add!
+# file added check!
